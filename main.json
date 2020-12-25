@@ -87,6 +87,12 @@
          "id":5,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"foo.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -463,7 +469,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
