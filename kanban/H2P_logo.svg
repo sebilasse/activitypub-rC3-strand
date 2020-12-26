@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg8" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="ActivityPub-logo-symbol.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.92.1 r15371" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px"
+	 viewBox="288.053 -227.443 256 256" enable-background="new 288.053 -227.443 256 256" xml:space="preserve">
+<title  id="title4590">ActivityPub logo</title>
+<sodipodi:namedview  units="px" inkscape:snap-global="true" showguides="false" showborder="true" inkscape:zoom="0.70710678" borderlayer="false" inkscape:pageshadow="2" fit-margin-top="0" bordercolor="#666666" showgrid="false" inkscape:pageopacity="0.0" borderopacity="0.14509804" pagecolor="#ffffff" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:cx="-195.34129" inkscape:cy="-120.65903" inkscape:guide-bbox="true" fit-margin-bottom="0" fit-margin-right="0" fit-margin-left="0" inkscape:showpageshadow="false" id="base">
+	<inkscape:grid  type="xygrid" enabled="false" originx="7.1437514" originy="-404.28382" id="grid4572"></inkscape:grid>
+	
+		<inkscape:grid  type="axonomgrid" units="mm" enabled="false" originx="7.1437514" originy="-404.28382" empspacing="12" id="grid4574">
+		</inkscape:grid>
+	<sodipodi:guide  inkscape:locked="false" position="3278.981,1256.5057" orientation="0,1" id="guide5059"></sodipodi:guide>
+	<sodipodi:guide  inkscape:locked="false" position="3278.981,1238.2495" orientation="0,1" id="guide5061"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(7.1437516,141.67967)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g5197" transform="translate(-4.2352716,0.01824528)">
+		<g id="g5132-90" transform="matrix(0.9789804,0,0,0.9789804,-3157.9561,1202.4422)">
+			<g id="g5080-78" transform="matrix(0.2553682,0,0,0.2553682,2615.9213,-1125.3113)">
+				
+					<linearGradient id="path5404-0-0_1_" gradientUnits="userSpaceOnUse" x1="358090.7812" y1="30170.0469" x2="358392.0312" y2="30170.0469" gradientTransform="matrix(0.0236 0 0 0.0236 2425.7439 -2078.1643)">
+					<stop  offset="0" style="stop-color:#F1007E"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<path id="path5404-0-0" sodipodi:nodetypes="cccccccc" inkscape:connector-curvature="0" fill="url(#path5404-0-0_1_)" d="
+					M4095.229-1674.372l445.875,257.402v103.01l-445.875,257.373v-102.926l356.687-205.967l-356.625-205.938L4095.229-1674.372z"/>
+				
+					<linearGradient id="path5406-6-3_1_" gradientUnits="userSpaceOnUse" x1="358120.3438" y1="30169.4844" x2="358421.625" y2="30169.4844" gradientTransform="matrix(0.0236 0 0 0.0236 2425.7439 -2078.1643)">
+					<stop  offset="0" style="stop-color:#F1007E"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<path id="path5406-6-3" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="url(#path5406-6-3_1_)" d="
+					M4095.229-1468.435l178.375,102.955l-178.375,102.928V-1468.435z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 288.0528 -5.7012)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="265.5817">#</text>
+</svg>
