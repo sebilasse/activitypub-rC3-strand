@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sebilasse.github.io\/activitypub-rC3-strand#forum"
+                 "value":"http:\/\/cors-anywhere.herokuapp.com\/socialhub.activitypub.rocks"
                 }],
          "type":"tilelayer",
          "visible":true,
