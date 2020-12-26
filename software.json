@@ -404,7 +404,7 @@
         {
          "columns":32,
          "firstgid":1013,
-         "image":"..\/..\/..\/..\/Downloads\/WorldsEnd-dda986ecd1f2fc40ab498abf4320aa3188ac4ed3\/OutOfGameAssets\/Tilesets\/base_out_atlas.png",
+         "image":"tiles\/ap_tiles\/drawable\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
