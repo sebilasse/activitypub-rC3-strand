@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/redaktor.me\/_deliver\/rC3"
+                 "value":"https:\/\/sebilasse.github.io\/activitypub-rC3-strand\/"
                 }],
          "type":"tilelayer",
          "visible":true,
