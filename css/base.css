@@ -443,6 +443,11 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 body h4.ap {
   color: #f1007e;
 }
+hr {
+  border-top: 1px solid #f1007e;
+  color: #f1007e;
+  margin-bottom: 7rem;
+}
 
 @media (min-width: 992px) {
     .dropdown-menu {
