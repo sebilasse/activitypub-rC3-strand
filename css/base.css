@@ -442,12 +442,20 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 
 body h4.ap {
   color: #f1007e;
+  text-transform: none;
 }
 hr {
   border-top: 1px solid #f1007e;
   color: #f1007e;
 }
-h1.ap { padding-top: 7rem; }
+
+h1.ap {
+  padding-top: 6rem;
+}
+h4.ap {
+  padding-top: 5.5rem;
+}
+
 
 @media (min-width: 992px) {
     .dropdown-menu {
