@@ -446,8 +446,8 @@ body h4.ap {
 hr {
   border-top: 1px solid #f1007e;
   color: #f1007e;
-  margin-bottom: 7rem;
 }
+h1.ap { padding-top: 7rem; }
 
 @media (min-width: 992px) {
     .dropdown-menu {
