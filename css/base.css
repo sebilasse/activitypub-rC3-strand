@@ -36,7 +36,7 @@
     --primary-c2: rgba(104, 0, 231, 1);
     --primary-c3: rgba(5, 185, 236, 1);
     --primary-c4: rgba(16, 14, 35, 1);
-    
+
     /*shaded versions*/
     --primary-c1-s1: rgba(103, 2, 149, 1);
     --primary-c2-s1: rgba(65, 0, 139, 1);
@@ -471,4 +471,3 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
         margin-left: 10px;
     }
 }
-
