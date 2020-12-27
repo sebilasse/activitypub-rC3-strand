@@ -769,7 +769,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_ap}"
+                 "value":"<lobby>\/software.json#start_ap"
                 }],
          "type":"tilelayer",
          "visible":true,
