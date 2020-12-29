@@ -455,7 +455,12 @@ h1.ap {
 h4.ap {
   padding-top: 5.5rem;
 }
-
+.btn.btn-secondary {
+  color: #212529;
+}
+.btn.btn-secondary:hover {
+  color: #f1007e;
+}
 
 @media (min-width: 992px) {
     .dropdown-menu {
